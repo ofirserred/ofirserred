@@ -6,7 +6,6 @@
 
 **B.Sc. Computer Science** graduate passionate about building real-world applications that bridge software and hardware.
 
-📍 Tel Aviv, Israel  
 📧 [ofirserred@gmail.com](mailto:ofirserred@gmail.com)  
 💼 [LinkedIn](https://linkedin.com/in/ofir-sered)
 
